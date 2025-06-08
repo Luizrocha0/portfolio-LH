@@ -383,6 +383,9 @@ footer .line-footer p a{
     .topo-do-site h1{
     font-size: 30px;
     }
+    .img-topo-site{
+        margin-right: 14%;
+    }
     .topo-do-site .img-topo-site img{
         width: 600px;
     }
