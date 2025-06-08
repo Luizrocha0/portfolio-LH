@@ -1,0 +1,17 @@
+
+let trilho = document.getElementById('trilho')
+let body = document.querySelector('body')
+let mail = document.getElementById('mail')
+let inca = document.getElementById('inca')
+let esp = document.getElementById('esp')
+let so = document.getElementById('so')
+let port = document.getElementById('port')
+trilho.addEventListener('click', ()=>{
+    trilho.classList.toggle('dark')
+    body.classList.toggle('dark')
+    mail.classList.toggle('dark')
+    inca.classList.toggle('dark')
+    esp.classList.toggle('dark')
+    so.classList.toggle('dark')
+    port.classList.toggle('dark')
+})
