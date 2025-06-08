@@ -409,7 +409,7 @@ footer .line-footer p a{
     }
     /* portifolio */
     section.portfolio{
-    padding: 80px 9%;
+    padding: 80px 4%;
     }
     section.portfolio .flex{
     justify-content: space-around;
